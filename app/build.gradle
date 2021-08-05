@@ -43,11 +43,6 @@ android {
     }
 }
 
-task generateVersionTxt {
-    doLast {
-        file("./version.txt").text = android.defaultConfig.versionName
-    }
-}
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
