@@ -3,8 +3,7 @@ name: Build & Publish Debug APK
 on:
   push:
     branches:
-      - master
-
+      - "!*"
     tags:
       - "v*"
 
