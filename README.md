@@ -47,6 +47,7 @@ Go to the [Releases](https://github.com/boy12hoody/SimpleMVVMNewsApp/releases) t
 - [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-flow/) - A cold asynchronous data stream that sequentially emits values and completes normally or with an exception.
 - [NewsAPI](https://newsapi.org/) - Locate articles and breaking news headlines from news sources and blogs across the web with JSON API.
 - [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling.
+- [SwipeRefreshLayout](https://developer.android.com/training/swipe/add-swipe-interface)  Adds Swipe-to-Refresh functionality to the layout
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
     - [Jetpack](https://developer.android.com/jetpack) -
         - [Room](https://developer.android.com/topic/libraries/architecture/room) - SQLite object mapping library.
